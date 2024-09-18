@@ -309,7 +309,7 @@ margin-bottom-xxsmall {
 }
 
 .list li {
-    margin-bottom: 25px; //링크와 링크 간격
+    margin-bottom: 28px; //링크와 링크 간격
 }
 
 .list li:last-child {
