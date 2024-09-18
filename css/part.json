@@ -1,0 +1,28 @@
+[
+    {
+        "id" : 1,
+        "name" : "글씨로 마음을 전하다",
+        "description" : "yes24  바로가기→",
+        "enabled" : true,
+        "thumbnail" : "./images/part/01.png",
+        "link" : "https://m.yes24.com/Goods/Detail/121576177"
+    },
+
+    {
+        "id" : 2,
+        "name" : "피아노그래피",
+        "description" : "youtube 바로가기→",
+        "enabled" : true,
+        "thumbnail" : "./images/part/02.jpg",
+        "link" : "http://www.youtube.com/@pianography1224"
+    },
+
+    {
+        "id" : 3,
+        "name" : "브로콜리의 요술봉",
+        "description" : "Naver Blog 바로가기→",
+        "enabled" : true,
+        "thumbnail" : "./images/part/03.jpg",
+        "link" : " https://m.blog.naver.com/PostList.naver?blogId=pianography_&trackingCode=blog_bloghome"
+    }
+]
