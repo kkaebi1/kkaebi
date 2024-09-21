@@ -328,7 +328,7 @@ margin-bottom-xxsmall {
  * ============================================================ */
  @media (prefers-color-scheme: light) {
     html, body {
-  background: url(https://kkaebi1.github.io/kkaebi/img/3.jpg) repeat center center fixed;
+  background: url(https://kkaebi1.github.io/kkaebi/img/b.jpg) repeat center center fixed;
   background-size: cover;
 
     }
